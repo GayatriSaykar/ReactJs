@@ -4,6 +4,7 @@
 
 2. Then,run command
    >cd firstreactapp
+   
    >npm install
 
 3.  npm start
